@@ -1,6 +1,6 @@
-# Hack 4 Good Project Workforce Development API
+# Project Workforce Development API
 
-This API provides job listings and job-related events for the Hack 4 Good Workforce Development Project.
+This API provides job listings and job-related events for the [Workforce Development Project](https://github.com/Open-SGF/Portal-To-Work-App).
 
 ## Development setup
 
