@@ -16,8 +16,8 @@ $factory->define(Location::class, function (Faker $faker) {
         'city' => $employer['city'],
         'state' => $employer['state'],
         'zipcode' => $employer['zipcode'],
-        'lat' => $employer['lat'],
-        'lng' => $employer['lng'],
+        //'lat' => $employer['lat'],
+        //'lng' => $employer['lng'],
     ];
 
     // Return random faker data
