@@ -4,7 +4,7 @@ This API provides job listings and job-related events for the [Workforce Develop
 
 ## Usage example
 
-_For more examples and usage, please refer to the [Wiki](https://github.com/sgfdevs/h4g-api-jobs/wiki).
+For more examples and usage, please refer to the [Wiki](https://github.com/sgfdevs/h4g-api-jobs/wiki).
 
 
 ## Contributing
